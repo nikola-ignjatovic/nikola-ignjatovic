@@ -1,4 +1,4 @@
-## I am Nikola Ignjatovic, 21 years old software developer from Serbia. 
+## My name is Nikola Ignjatovic, I am 21 years old software developer from Serbia. 
 
 ### About repositories:
 Some of the repositories are on Serbian.
