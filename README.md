@@ -2,8 +2,8 @@
 
 ### About repositories:
 Some of the repositories are on Serbian.
-That's because I was either working for Serbian clients or with Serbian team.
-Most of the repositories that are on Serbian are older. 
+That's because I was either working for Serbian clients or with a Serbian team.
+Most of the repositories that are on Serbian language are older. 
 
 If you don't understand documentation or you have any questions or issues feel free to hit me up via email at ignjatovic.nikola2002@gmail.com.
 
