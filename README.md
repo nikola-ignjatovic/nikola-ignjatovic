@@ -1,4 +1,4 @@
-## Software developer from Serbia and a 10x programmer. 
+## Software developer from Serbia. 
 
 ### About repositories:
 Some of the repositories are on Serbian.
